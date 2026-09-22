@@ -1,0 +1,5 @@
+config.sh
+.bash_history
+.config/
+.ssh/
+.gitconfig
